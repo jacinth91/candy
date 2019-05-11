@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "phpmyadmin",
+    "password": "tepl@123",
+    "database": "candyBase",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "phpmyadmin",
+    "password": "tepl@123",
+    "database": "candyBase",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "phpmyadmin",
+    "password": "tepl@123",
+    "database": "candyBase",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
